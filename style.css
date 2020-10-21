@@ -1,0 +1,10 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading{
+    box-shadow: 10px 10px 10px white;
+}
+#song{
+    box-shadow: 5px 5px 5px white;
+}
